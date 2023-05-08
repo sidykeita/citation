@@ -5,7 +5,7 @@ let auteur = document.querySelector("#auteur");
 
 // Tableau de citations
 let citations = [
-    ["La vie est un mystère qu'il faut vivre, et non un problème à résoudre.", "Gandhi"],
+    ["La vie est un mystère qu'il faut vivre, et non un problème à résoudre.", "Gandhis"],
     ["Le plus grand risque est de ne prendre aucun risque.", "Mark Zuckerberg"],
     ["Méritez votre statut de leader chaque jour.", "Mickael Jordan"],
     ["Soyez le changement que vous voulez voir dans le monde.", "Gandhi"],
